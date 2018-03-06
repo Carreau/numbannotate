@@ -1,0 +1,11 @@
+[build-system]
+requires = ["flit"]
+build-backend = "flit.buildapi"
+
+[tool.flit.metadata]
+module = "numbannotate"
+author = "Matthias Bussonnier"
+author-email = "bussonniermatthias@gmail.com"
+home-page = "https://github.com/Carreau/numbannotate"
+classifiers = ["License :: OSI Approved :: MIT License"]
+
